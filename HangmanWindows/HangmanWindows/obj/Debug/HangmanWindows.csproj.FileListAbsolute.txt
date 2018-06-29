@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.HangMan.resources
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.Properties.Resources.resources
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.csproj.GenerateResource.cache
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\bin\Debug\HangmanWindows.exe.config
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\bin\Debug\HangmanWindows.exe
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\bin\Debug\HangmanWindows.pdb
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.exe
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.pdb
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.csprojAssemblyReference.cache
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\bin\Debug\HangmanWindows.exe.manifest
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\bin\Debug\HangmanWindows.application
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.exe.manifest
+C:\Users\david\source\repos\HangmanWindows\HangmanWindows\obj\Debug\HangmanWindows.application
